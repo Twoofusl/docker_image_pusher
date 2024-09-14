@@ -3,13 +3,13 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构 --platform=linux/amd64 imageName:Tag
-nginx:1.26.0
-minio/minio:RELEASE.2024-05-10T01-41-38Z
-influxdb:2.7.4
-mongo:7.0.12
-redis:7.2.5
-mysql:8.0.32
-eclipse-temurin:21-jre
-eclipse-temurin:17-jre
-ubuntu:22.04
-alpine:3.18
+#nginx:1.26.0
+#minio/minio:RELEASE.2024-05-10T01-41-38Z
+influxdb:2.7.10
+#mongo:7.0.12
+#redis:7.2.5
+#mysql:8.0.32
+#eclipse-temurin:21-jre
+#eclipse-temurin:17-jre
+#ubuntu:22.04
+#alpine:3.18
