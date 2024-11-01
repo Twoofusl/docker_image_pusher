@@ -13,4 +13,4 @@
 #eclipse-temurin:17-jre
 #ubuntu:22.04
 #alpine:3.18
-debian:stable-slim
+zlmediakit/zlmediakit:master
