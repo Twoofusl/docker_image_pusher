@@ -14,5 +14,6 @@ eclipse-temurin:8-jre
 #ubuntu:22.04
 #alpine:3.18
 #zlmediakit/zlmediakit:master
-apache/kafka:3.9.0
-apache/kafka-native:3.9.0
+#apache/kafka:3.9.0
+#apache/kafka-native:3.9.0
+apache/rocketmq:5.3.1
