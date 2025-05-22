@@ -16,4 +16,5 @@ eclipse-temurin:8-jre
 #zlmediakit/zlmediakit:master
 #apache/kafka:3.9.0
 #apache/kafka-native:3.9.0
-apache/rocketmq:5.3.1
+#apache/rocketmq:5.3.1
+influxdb:3.0.3-core
