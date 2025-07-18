@@ -17,6 +17,6 @@ eclipse-temurin:8-jre
 #apache/kafka:3.9.0
 #apache/kafka-native:3.9.0
 #apache/rocketmq:5.3.1
-influxdb:3.1.0-core
-#tdengine/tdengine:3.3.6.9
+#influxdb:3.1.0-core
+tdengine/tdengine:3.3.6.13
 #apache/iotdb:2.0.3-standalone
