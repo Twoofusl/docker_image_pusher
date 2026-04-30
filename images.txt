@@ -21,5 +21,6 @@ eclipse-temurin:25-jre
 #tdengine/tdengine:3.3.6.13
 #apache/iotdb:2.0.3-standalone
 #rust:1.93
-rust:1.93-bookworm
+#rust:1.93-bookworm
 #debian:bookworm-slim
+debian:trixie-slim
