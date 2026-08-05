@@ -24,4 +24,5 @@ eclipse-temurin:25-jre
 #rust:1.93-bookworm
 #debian:bookworm-slim
 #debian:trixie-slim
-hagb/docker-atrust:latest
+#hagb/docker-atrust:latest
+messense/cargo-xwin:sha-850fb50
