@@ -1,28 +1,36 @@
-#nginx
+# nginx
 #支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/alist:latest
 #支持指定架构 --platform=linux/amd64 imageName:Tag
-#nginx:1.26.0
-#minio/minio:RELEASE.2024-05-10T01-41-38Z
-#influxdb:2.7.10
-#mongo:7.0.12
-#redis:7.2.5
-#mysql:8.0.32
-#eclipse-temurin:21-jre
-eclipse-temurin:25-jre
-#ubuntu:22.04
-#alpine:3.18
-#zlmediakit/zlmediakit:master
-#apache/kafka:3.9.0
-#apache/kafka-native:3.9.0
-#apache/rocketmq:5.3.1
-#influxdb:3.1.0-core
-#tdengine/tdengine:3.3.6.13
-#apache/iotdb:2.0.3-standalone
-#rust:1.93
-#rust:1.93-bookworm
-#debian:bookworm-slim
-#debian:trixie-slim
-#hagb/docker-atrust:latest
-messense/cargo-xwin:sha-850fb50
+# nginx:1.26.0
+
+# eclipse-temurin:21-jre
+# eclipse-temurin:25-jre
+
+# ubuntu:22.04
+# alpine:3.18
+# zlmediakit/zlmediakit:master
+
+# apache/kafka:3.9.0
+# apache/kafka-native:3.9.0
+# apache/rocketmq:5.3.1
+
+# minio/minio:RELEASE.2024-05-10T01-41-38Z
+# influxdb:2.7.10
+# mongo:7.0.12
+# redis:7.2.5
+# mysql:8.0.32
+# influxdb:3.1.0-core
+# tdengine/tdengine:3.3.6.13
+tdengine/tsdb:3.4.2.2
+# apache/iotdb:2.0.3-standalone
+
+# rust:1.93
+# rust:1.93-bookworm
+# messense/cargo-xwin:sha-850fb50
+
+# debian:bookworm-slim
+# debian:trixie-slim
+
+# hagb/docker-atrust:latest
