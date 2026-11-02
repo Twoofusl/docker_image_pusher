@@ -5,8 +5,8 @@
 #支持指定架构 --platform=linux/amd64 imageName:Tag
 # nginx:1.26.0
 
-# eclipse-temurin:21-jre
-# eclipse-temurin:25-jre
+eclipse-temurin:21-jre
+eclipse-temurin:25-jre
 
 # ubuntu:22.04
 # alpine:3.18
@@ -23,7 +23,7 @@
 # mysql:8.0.32
 # influxdb:3.1.0-core
 # tdengine/tdengine:3.3.6.13
-tdengine/tsdb:3.4.2.2
+# tdengine/tsdb:3.4.2.2
 # apache/iotdb:2.0.3-standalone
 
 # rust:1.93
