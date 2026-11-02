@@ -5,8 +5,8 @@
 #支持指定架构 --platform=linux/amd64 imageName:Tag
 # nginx:1.26.0
 
-eclipse-temurin:21-jre
-# eclipse-temurin:25-jre
+# eclipse-temurin:21-jre
+eclipse-temurin:25-jre
 
 # ubuntu:22.04
 # alpine:3.18
